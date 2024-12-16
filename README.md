@@ -17,7 +17,7 @@ Esse projeto da cadeira de Arquitetura de Computadores e Sistemas Operacionais, 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Projeto em funcionamento](screenshot.png)
 
 
 ## Rodando localmente
